@@ -91,3 +91,6 @@ SELECT
 FROM cte AS a
 LEFT JOIN cost_table AS b 
 ON a.yr = b.yr;
+
+
+
